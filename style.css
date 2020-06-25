@@ -1,0 +1,61 @@
+html {
+  margin: 16px;
+  background: lavenderblush;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align:center;
+  color: #f2a7e1;
+  border: 20px double rgba(47, 79, 79, 0.555);
+  box-shadow: 12px 12px #f2a7e1;
+  padding: 20px;
+  max-width: 20em;
+  margin: auto;
+
+}
+
+img{
+  height: 200px;
+  border-radius: 90%
+}
+
+.insta {
+  height: 30px;
+  border-radius:0%;
+}
+
+.insta:hover {
+  opacity: .7;
+}
+
+.linkedin {
+  height: 30px;
+  border-radius:0%;
+}
+
+.linkedin:hover {
+  opacity: .7;
+}
+
+.facebook{
+  height: 30px;
+  border-radius: 0%;
+}
+
+.facebook:hover {
+  opacity: .7;
+}
+
+.mail{
+  height: 30px;
+  border-radius: 0%;
+}
+
+.mail:hover {
+  opacity: .7;
+}
+
+a{
+  text-decoration:none
+}
